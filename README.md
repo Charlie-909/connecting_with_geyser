@@ -15,3 +15,5 @@ Step 1:
 ![An image showing the internet settings on the nintendo switch.](https://user-images.githubusercontent.com/109752332/202918923-1ed692fa-7073-48e6-a43d-95623ec38440.jpeg)
 
 Go down to the DNS settings, and change it to manual.
+
+![An image showing the DNS settings on the nintendo switch.](https://user-images.githubusercontent.com/109752332/202919367-9b924ca7-00d5-454d-9d9b-6192d9d0930d.jpeg)
