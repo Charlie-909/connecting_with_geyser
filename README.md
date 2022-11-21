@@ -30,4 +30,10 @@ Then, afterwards it should look like this.
 
 ![An image showing the DNS settings, with custom DNS on the nintendo switch.](https://user-images.githubusercontent.com/109752332/202920451-818eed3a-ce0e-4a72-ac9b-f52746361b5b.jpeg)
 
-Alright, the hard part is done. Now you just need to open up your Minecraft install, And go to servers, connect to any one it shouldn't matter.
+Alright, the hard part is done. Now you just need to open up your Minecraft install, And go to servers,If you did it right, the MOTD for lifeboat should be 'US Public GeyserConnect'
+Now connect to it.
+
+![An image showing the MC Lifeboat server, with the MOTD being 'US Public GeyserConnect'](https://user-images.githubusercontent.com/109752332/203147659-3fe096b5-856d-4284-9f18-c29c4a065989.jpeg)
+
+Now once you have connected, you'll see this screen.
+
